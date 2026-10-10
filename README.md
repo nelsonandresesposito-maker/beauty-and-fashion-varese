@@ -1,4 +1,3 @@
-[Beauty And Fashion · Parrucchiera a Varese (demo) (1).html](https://github.com/user-attachments/files/33293409/Beauty.And.Fashion.Parrucchiera.a.Varese.demo.1.html)
 <!DOCTYPE html>
 <html lang="it">
 <head>
